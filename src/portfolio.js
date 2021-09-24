@@ -194,11 +194,13 @@ export const projects = [
 		name: "Disease predictor",
 		desc: "This a an ML project which can predict a disease on basis of symptoms provided with a accuracy of 98% only if all the symptoms and provided correctly",
 		link: "https://prediction-disease.herokuapp.com/",
+		github: "https://github.com/anupam1806/disease-predictor",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		name: "Todo List",
+		desc: "Todo list website in which user can add and delete items.",
+		link: "https://gentle-wildwood-86117.herokuapp.com/",
+		github: "https://github.com/anupam1806/Todo-List",
 	},
 	{
 		name: "lorem ipsum",
