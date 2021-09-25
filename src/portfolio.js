@@ -203,10 +203,9 @@ export const projects = [
 		github: "https://github.com/anupam1806/Todo-List",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-		link: "",
+		name: "Basic Banking Site",
+		desc: "It contains basic banking operations such as transfer money from one account to another account.",
+		github: "https://github.com/anupam1806/Sparks-Bank",
 	},
 ];
 
