@@ -207,6 +207,17 @@ export const projects = [
 		desc: "It contains basic banking operations such as transfer money from one account to another account.",
 		github: "https://github.com/anupam1806/Sparks-Bank",
 	},
+	{
+		name: "Google keep",
+		desc: "It contains basic banking operations such as transfer money from one account to another account.",
+		github: "https://github.com/anupam1806/keeper",
+	},
+	{
+		name: "Chatting App",
+		desc: "It is real time chat application in which one or more users can make a room and chat with each other, send images. It also has addtional features like when a new message arrives a notification sound come, it show online status on user icon, we can see all the images in room in photos section.",
+		link: "https://app-chatting.netlify.app/",
+		github: "https://github.com/anupam1806/chat-app",
+	},
 ];
 
 export const feedbacks = [
