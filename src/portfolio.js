@@ -9,7 +9,7 @@ export const greetings = {
 	title: "Hi all, I'm Anupam",
 	description:
 		"A passionate Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Expressjs / MongoDb / Bootstrap and some other cool libraries and frameworks.",
-	resumeLink: "",
+	resumeLink: "./assets/files/resume.pdf",
 };
 
 export const openSource = {

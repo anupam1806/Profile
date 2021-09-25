@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { greetings } from "../portfolio";
 import code from '../assets/lottie/coding.json';
+import { Document, Page } from 'react-pdf';
 
 
 import { Fade } from 'react-reveal';
@@ -20,6 +21,8 @@ const Greetings = () => {
     document.documentElement.scrollTop = 0;
     document.scrollingElement.scrollTop = 0;
   })
+
+  
   return ( 
     <Fade top duration={1000} distance="40px">
         <main ref="main">
@@ -50,6 +53,7 @@ const Greetings = () => {
                           className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                           color="default"
                           href={greetings.resumeLink}
+                          download
                         >
                           <span className="btn-inner--icon mr-1">
                             <i className="fa fa-file" />
