@@ -218,17 +218,23 @@ export const projects = [
 		link: "https://app-chatting.netlify.app/",
 		github: "https://github.com/anupam1806/chat-app",
 	},
+	{
+		name: "Zoom Clone",
+		desc: "It is a real time video call application in which upto 5 users can join a call and communicate which each other. It also has chat section in which users can send messages.",
+		link: "https://zoom-00clone.herokuapp.com/",
+		github: "https://github.com/anupam1806/zoomClone",
+	},
 ];
 
 export const feedbacks = [
 	{
-		name: "Hassan Mehmood",
+		name: "Prateek Mishra",
 		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+			"Mr. Anupam Saini a student of SRM University, has successfully completed two months (10th July – 9th Sept, 2021) as a Web Development-Intern. He has worked on an Online Internship Project with the Development Team of our organization.We were happy with his work and found him hardworking, punctual, and diligent. He has also portrayed leadership skills and lead the team well.We wish him all the very best"
 	},
-	{
-		name: "Maheen Altaf",
-		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
-	},
+	// {
+	// 	name: "Maheen Altaf",
+	// 	feedback:
+	// 		"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+	// },
 ];
