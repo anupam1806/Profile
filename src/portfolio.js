@@ -9,7 +9,7 @@ export const greetings = {
 	title: "Hi all, I'm Anupam",
 	description:
 		"A passionate Full Stack Web Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Expressjs / MongoDb / Bootstrap and some other cool libraries and frameworks.",
-	resumeLink: "./assets/files/resume.pdf",
+	resumeLink: "./resume.pdf",
 };
 
 export const openSource = {
@@ -20,7 +20,7 @@ export const contact = {};
 
 export const socialLinks = {
 	facebook: "https://www.facebook.com/anupam.saini.10",
-	instagram: "https://www.instagram.com/anupam18",
+	instagram: "https://www.instagram.com/anupam.1806",
 	// twitter: "https://twitter.com/1hanzla100",
 	github: "https://github.com/anupam1806",
 	linkedin: "https://www.linkedin.com/in/anupamsaini18/",
