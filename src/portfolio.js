@@ -206,11 +206,13 @@ export const projects = [
 	{
 		name: "Basic Banking Site",
 		desc: "It contains basic banking operations such as transfer money from one account to another account.",
+		link: "https://anupam1806.github.io/Sparks-Bank/",
 		github: "https://github.com/anupam1806/Sparks-Bank",
 	},
 	{
 		name: "Google keep",
 		desc: "It contains basic banking operations such as transfer money from one account to another account.",
+		link: "https://keep-google.herokuapp.com/",
 		github: "https://github.com/anupam1806/keeper",
 	},
 	{
