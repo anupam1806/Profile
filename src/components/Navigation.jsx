@@ -127,6 +127,18 @@ const Navigation = () => {
                       </span>
                     </NavLink>
                   </NavItem>
+                  <NavItem>
+                    <NavLink
+                      className="nav-link-icon"
+                      href="mailto:anupam.saini18@gmail.com"
+                      target="_blank"
+                    >
+                    <i className="fa fa-envelope" />
+                      <span className="nav-link-inner--text d-lg-none ml-2">
+                        Gmail
+                      </span>
+                    </NavLink>
+                  </NavItem>
                 </Nav>
               </UncontrolledCollapse>
             </Container>

@@ -24,6 +24,7 @@ export const socialLinks = {
 	// twitter: "https://twitter.com/1hanzla100",
 	github: "https://github.com/anupam1806",
 	linkedin: "https://www.linkedin.com/in/anupamsaini18/",
+	gmail: "anupam.saini18@gmail.com",
 };
 
 export const skillsSection = {
