@@ -192,6 +192,12 @@ export const experience = [
 
 export const projects = [
 	{
+		name: "StartUp Guide",
+		desc: "I worked as a full stack developer here and developed a website which can manage their expenses and funding. Also a startup will be guided accordingly.",
+		link: "https://prediction-disease.herokuapp.com/",
+		github: "https://github.com/anupam1806/disease-predictor",
+	},
+	{
 		name: "Disease predictor",
 		desc: "This a an ML project which can predict a disease on basis of symptoms provided with a accuracy of 98% only if all the symptoms and provided correctly",
 		link: "https://prediction-disease.herokuapp.com/",
