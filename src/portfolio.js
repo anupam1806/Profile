@@ -211,7 +211,7 @@ export const projects = [
 	},
 	{
 		name: "Google keep",
-		desc: "It contains basic banking operations such as transfer",
+		desc: "as transfer",
 		link: "https://keep-google.herokuapp.com/",
 		github: "https://github.com/anupam1806/keeper",
 	},
