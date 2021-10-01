@@ -194,8 +194,8 @@ export const projects = [
 	{
 		name: "StartUp Guide",
 		desc: "I worked as a full stack developer here and developed a website which can manage their expenses and funding. Also a startup will be guided accordingly.",
-		link: "https://prediction-disease.herokuapp.com/",
-		github: "https://github.com/anupam1806/disease-predictor",
+		link: "https://thestartupguide.herokuapp.com/",
+		github: "https://github.com/rabvik-innovations/Rabvik_Innovations-2",
 	},
 	{
 		name: "Disease predictor",
