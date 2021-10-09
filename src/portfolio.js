@@ -243,5 +243,4 @@ export const feedbacks = [
 	},
 	// {
 	// 	name: "Maheen Altaf",
-	// 	
 ];
