@@ -244,5 +244,5 @@ export const feedbacks = [
 	// {
 	// 	name: "Maheen Altaf",
 	// 	feedback:
-	// 		"the website is very
+	// 		"the 
 ];
