@@ -241,6 +241,5 @@ export const feedbacks = [
 		feedback:
 			"Mr. Anupam Saini a student of SRM University, has successfully completed two months (10th July – 9th Sept, 2021) as a Web Development-Intern. He has worked on an Online Internship Project with the Development Team of our organization.We were happy with his work and found him hardworking, punctual, and diligent. He has also portrayed leadership skills and lead the team well.We wish him all the very best"
 	},
-	// {
-	
+	// 
 ];
