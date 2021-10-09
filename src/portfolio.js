@@ -244,5 +244,5 @@ export const feedbacks = [
 	// {
 	// 	name: "Maheen Altaf",
 	// 	feedback:
-	// 		"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it with
+	// 		"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using 
 ];
