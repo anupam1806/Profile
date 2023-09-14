@@ -135,7 +135,7 @@ export const educationInfo = [
 		schoolName: "SRM Institute of Science and Technology",
 		subHeader: "Bachelor of Science in Computer Science",
 		duration: "July 2019 -  Present",
-		desc: "3rd year Computer Science student",
+		desc: "4th year Computer Science student",
 		descBullets: [
 			"Worked on various minot projects in different domains like Semiconductors, Software development, Computer networks",
 			"Participated in various college events like workshops and webinars",
